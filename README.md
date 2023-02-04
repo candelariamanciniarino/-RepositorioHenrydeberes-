@@ -1,2 +1,1 @@
-# -RepositorioHenrydeberes-
-HOMEWORK 02 
+probando lo aprendido 
